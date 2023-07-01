@@ -1,4 +1,4 @@
-namespace SermonArchiver
+namespace ArchiveAutomate
 {
     public class WeatherForecast
     {

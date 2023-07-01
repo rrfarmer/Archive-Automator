@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "SermonArchiver": {
+    "ArchiveAutomate": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

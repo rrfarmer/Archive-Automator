@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace SermonArchiver.Controllers
+namespace ArchiveAutomate.Controllers
 {
     [ApiController]
     [Route("[controller]")]
