@@ -413,3 +413,4 @@ FodyWeavers.xsd
 
 # Custom Adds
 ContractManager/internal_logs/
+ArchiveAutomate/internal_logs/internallog.txt
